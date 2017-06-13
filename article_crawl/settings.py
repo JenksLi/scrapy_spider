@@ -94,5 +94,5 @@ ITEM_PIPELINES = {
 # mysql parameter
 MYSQL_HOST = 'localhost'
 MYSQL_USER = 'root'
-MYSQL_PASSWD = 'mysqlroot'
+MYSQL_PASSWD = 'root'
 MYSQL_DB = 'scrapy'
