@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="46e4fad1-f109-475f-b58e-6cf1a24d31b8" name="tengxun" url="http://123.207.88.97">
+        <fileTransfer host="123.207.88.97" port="22" rootFolder="/home/pypro/pyProject/article_crawl" accessType="SFTP" password="dffadfd3dfdedfc2dfc5dfc4df8bdfeadf89" username="pypro">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
